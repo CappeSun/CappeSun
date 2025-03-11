@@ -1,4 +1,4 @@
-Yo, I study web development at Yrgo in Gothenburg. I'm aiming for full stack, though with focus on backend. I mostly work with JS, including Node, and PHP, and have found Laravel and Vue to suit me well. Outside of web, I have some basic experience with C++ and C#. Frontend-wise I usually build web apps, as I enjoy interactive and fluent websites.
+Yo, I study web development at Yrgo in Gothenburg. I'm aiming for full stack, though with focus on backend. I mostly work with JS, including Node, and PHP, and have found Laravel and Vue to suit me well. Frontend-wise I usually build web apps, as I enjoy interactive and fluent websites. Outside of web, I have some basic experience with C++ and C#.
 
 Other interests I pursue in my free time are music, electronics, CAD and whatever else catches my interest. (Profile in progress...)
 

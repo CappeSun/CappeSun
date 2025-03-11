@@ -1,10 +1,8 @@
-## Hi there 👋
+Yo, I study web development at Yrgo in Gothenburg. I'm aiming for full stack, though with focus on backend. I mostly work with JS, including Node, and PHP, and have found Laravel and Vue to suit me well. Outside of web, I have some basic experience with C++ and C#. Frontend-wise I usually build web apps, as I enjoy interactive and fluent websites.
+
+Other interests I pursue in my free time are music, electronics, CAD and whatever else catches my interest. (Profile in progress...)
 
 <!--
-**CappeSun/CappeSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

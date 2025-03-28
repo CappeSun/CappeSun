@@ -2,6 +2,8 @@ Yo, I study web development at Yrgo in Gothenburg. I'm aiming for full stack, th
 
 Other interests I pursue in my free time are music, electronics, CAD and whatever else catches my interest. I'm also working on a livestream service, Dreamcaster, which aims to match the (useful) features of Twitch, in addition to many new. It is currently in passion project status.
 
+Many of the projects found here are available live on [hoshizora.cafe/sputnik](https://hoshizora.cafe/sputnik), under projects.
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
